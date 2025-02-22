@@ -1,0 +1,5 @@
+1. buat repository di github
+2. buat file say_hello.go
+3. upload ke github semua
+4. buat tag versi di terminal: git tag v1.0.0
+5. push tag ke github: git push origin v1.0.0 
